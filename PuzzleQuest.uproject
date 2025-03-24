@@ -18,6 +18,10 @@
 		{
 			"Name": "MixamoAnimToUE5",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
 		}
 	]
 }
